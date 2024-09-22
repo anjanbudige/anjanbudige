@@ -29,7 +29,7 @@
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **IOT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjanbudige?tab=repositories](https://github.com/anjanbudige?tab=repositories)
 
