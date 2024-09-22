@@ -31,7 +31,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anjan-budige?tab=repositories](https://github.com/anjanbudige?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/anjanbudige?tab=repositories](https://github.com/anjanbudige?tab=repositories)
 
 - 💬 Ask me about **Web Development, Cloud Computing, LLM's**
 
