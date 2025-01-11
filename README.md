@@ -13,7 +13,7 @@
 </picture>
 -->
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=anjanbudige&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://nirzak-streak-stats.vercel.app?user=anjanbudige&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 
